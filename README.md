@@ -7,3 +7,5 @@ git remote add origin (with your repo url) // simply copy from your repo
 git add -A
 git commit -m "your commit"
 git push -u origin master
+
+ git config --global user.name "voldemort859"
